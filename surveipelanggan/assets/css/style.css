@@ -1,0 +1,31 @@
+
+.header{
+	padding-top: 20px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+.navbar{
+	border-radius: 0px !important;
+}
+.footer{
+	width: 100%;
+}
+.konten{
+	min-height: 250px;
+}
+.thumbnail{
+	border: 0px;
+}
+.caption{
+	text-align: center;
+}
+.notif{
+	display: none;
+}
+.btn{
+	border-radius: 0px !important;
+}
+img:hover{
+	width: 155px;
+	transition: all .3s ease-in-out;
+}
